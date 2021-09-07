@@ -30,6 +30,7 @@ IP需要填写`游戏服务器`的IP
 
 ![img](/images/image-4.png) 
 
+### 服务端接入
 接入游戏注册账号并登入控制台，选择`接入管理`，点击`添加游戏` 
 
 ![img](/images/image-5.png) 
