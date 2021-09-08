@@ -10,7 +10,8 @@ categories: ["中文"]
 >官网地址: [www.r3k.com](https://www.r3k.com/) 
 >前往控制台开始反挂接入
 
-加QQ群或在接入游戏页面中查看视频教程，QQ交流群515501635
+加QQ群或在接入游戏页面中查看视频教程，扫码加群
+![img](/images/QQ群二维码.jpg)
 
 ### 下载接入器
 在qq群里下载接入器，放入到`游戏服务器`当中。或者在[console.r3k.com](https://console.r3k.com)中下载接入器 
